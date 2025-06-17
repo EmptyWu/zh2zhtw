@@ -9,5 +9,5 @@
         "简体": "簡體",
         "繁体": "繁體"
     },
-    "FileExtensions": [".cs", ".css", ".cshtml"]
+    "FileExtensions": [".cs", ".css", ".cshtml",".sln",".js",".json"]
 } 

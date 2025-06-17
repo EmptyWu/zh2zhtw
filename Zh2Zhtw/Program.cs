@@ -13,7 +13,7 @@ class Program
 
     static void Main(string[] args)
     {
-        args =new string[] { "D:\\98.SampleCode\\" };
+        args =new string[] { "D:\\98.SampleCode" };
         if (args.Length == 0)
         {
             Console.WriteLine("請提供資料夾路徑作為參數");
